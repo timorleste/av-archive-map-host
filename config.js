@@ -68,7 +68,7 @@ var config = {
             hidden: false,
             title: 'Distrito AILEU',
             image: 'images/AILEU.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.56693, -8.71643],  
@@ -91,7 +91,7 @@ var config = {
             hidden: false,
             title: 'Distrito AINARO',
             image: 'images/AINARO.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.5092, -8.99334],  
@@ -114,7 +114,7 @@ var config = {
             hidden: false,
             title: 'Distrito BAUCAU',
             image: 'images/BAUCAU.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 126.45249, -8.46211],  
@@ -137,7 +137,7 @@ var config = {
             hidden: false,
             title: 'Distrito BOBONARO',
             image: 'images/BOBONARO.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.21991, -8.99192],  
@@ -160,7 +160,7 @@ var config = {
             hidden: false,
             title: 'Distrito COVALIMA',
             image: 'images/COVALIMA.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.2516, -9.30941],  
@@ -183,7 +183,7 @@ var config = {
             hidden: false,
             title: 'Distrito DILI',
             image: 'images/DILI.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.56309, -8.55515],  
@@ -206,7 +206,7 @@ var config = {
             hidden: false,
             title: 'Distrito ERMERA',
             image: 'images/ERMERA.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
 
             location: {
                 center: [ 125.3966, -8.75157],  
@@ -229,7 +229,7 @@ var config = {
             hidden: false,
             title: 'Distrito LAUTEM',
             image: 'images/LAUTEM.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
             
             location: {
                 center: [ 126.905678, -8.362989],  
@@ -252,7 +252,7 @@ var config = {
             hidden: false,
             title: 'Distrito LIQUICA',
             image: 'images/LIQUICA.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
      
             location: {
                 center: [ 125.350311, -8.583031],  
@@ -275,7 +275,7 @@ var config = {
             hidden: false,
             title: 'Distrito MANATUTO',
             image: 'images/MANATUTO.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
          
             location: {
                 center: [ 126.017395, -8.515897],  
@@ -298,7 +298,7 @@ var config = {
             hidden: false,
             title: 'Distrito MANUFAHI',
             image: 'images/MANUFAHI.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
         
             location: {
                 center: [ 125.649910, -9.005694],  
@@ -321,7 +321,7 @@ var config = {
             hidden: false,
             title: 'Distrito OECUSSE',
             image: 'images/OECUSSE.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
         
             location: {
                 center: [ 124.37139, -9.20102],  
@@ -344,7 +344,7 @@ var config = {
             hidden: false,
             title: 'Distrito VIQUEQUE',
             image: 'images/VIQUEQUE.png',
-            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="372" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
+            description: 'Our mission is to help facilitate the newly independent East-Timor in accessing the voices and the key events in its past and fostering an understanding of its unique cultural heritage; to help unite and secure the identity of the country and its people; and to contribute to the forging of a new democratic nation. To ensure the survival of unique resources which contain and communicate the experience and the story of Timor-Leste and to place these at the service of peace and understanding, in Timor-Leste, Regionally and Internationally.</p>  <video width="100%" height="225" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>',
             
             location: {
                 center: [ 126.3657600, -8.8672900],  
