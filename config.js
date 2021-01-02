@@ -17,7 +17,7 @@ var config = {
             hidden: false,
             title: 'Server Back Office Host Specification',
             image: 'images/camstl.png',
-            description: 'In Timor-Leste, Regionally and Internationally</p>  <iframe width="100%" height="240" src="https://www.youtube.com/embed/gj3kDaKqMoI?controls=0&amp;start=207" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 
+            description: 'In Timor-Leste, Regionally and Internationally</p>  <iframe width="100%" height="260" src="https://www.youtube.com/embed/gj3kDaKqMoI?controls=0&amp;start=207" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 
             
             location: {
                 center: [125.57726, -8.55524],  
