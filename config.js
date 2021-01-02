@@ -17,7 +17,7 @@ var config = {
             hidden: false,
             title: 'Server Back Office Host Specification',
             image: 'images/camstl.png',
-            description: 'In Timor-Leste, Regionally and Internationally</p>  <iframe width="377" height="240" src="https://www.youtube.com/embed/gj3kDaKqMoI?controls=0&amp;start=207" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 
+            description: 'In Timor-Leste, Regionally and Internationally</p>  <iframe width="100%" height="240" src="https://www.youtube.com/embed/gj3kDaKqMoI?controls=0&amp;start=207" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 
             
             location: {
                 center: [125.57726, -8.55524],  
@@ -45,7 +45,7 @@ var config = {
             hidden: false,
             title: 'Server Front Office Host Specification [Partner]',
             image: 'images/uc-pt.png',
-            description: 'The University of Coimbra, is a Portuguese public University in Coimbra Portugal, being one of the oldest universities in continuous operation in the world. On 22 June 2013, UNESCO added the university to its World Heritage List.</p> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faudiovisualarchivetimorleste%2Fvideos%2F247961939423153%2F&show_text=1width=372&show_text=false&appId=1138847206148818&height=265" width="377" height="265" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>',
+            description: 'The University of Coimbra, is a Portuguese public University in Coimbra Portugal, being one of the oldest universities in continuous operation in the world. On 22 June 2013, UNESCO added the university to its World Heritage List.</p> <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faudiovisualarchivetimorleste%2Fvideos%2F247961939423153%2F&show_text=1width=100%&show_text=false&appId=1138847206148818&height=265" width="100%" height="265" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>',
                     
             location: {
                 center: [ -8.425943, 40.207225],  
