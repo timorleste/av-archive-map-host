@@ -21,8 +21,8 @@ var config = {
             
             location: {
                 center: [125.57726, -8.55524],  
-                zoom: 18.00,
-                pitch: 19.00,
+                zoom: 17.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -50,7 +50,7 @@ var config = {
             location: {
                 center: [ -8.425943, 40.207225],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -73,7 +73,7 @@ var config = {
             location: {
                 center: [ 125.56693, -8.71643],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -96,7 +96,7 @@ var config = {
             location: {
                 center: [ 125.5092, -8.99334],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -119,7 +119,7 @@ var config = {
             location: {
                 center: [ 126.45249, -8.46211],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -142,7 +142,7 @@ var config = {
             location: {
                 center: [ 125.21991, -8.99192],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -165,7 +165,7 @@ var config = {
             location: {
                 center: [ 125.2516, -9.30941],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -188,7 +188,7 @@ var config = {
             location: {
                 center: [ 125.56309, -8.55515],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -211,7 +211,7 @@ var config = {
             location: {
                 center: [ 125.3966, -8.75157],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -234,7 +234,7 @@ var config = {
             location: {
                 center: [ 126.905678, -8.362989],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -257,7 +257,7 @@ var config = {
             location: {
                 center: [ 125.350311, -8.583031],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -280,7 +280,7 @@ var config = {
             location: {
                 center: [ 126.017395, -8.515897],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -303,7 +303,7 @@ var config = {
             location: {
                 center: [ 125.649910, -9.005694],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -326,7 +326,7 @@ var config = {
             location: {
                 center: [ 124.37139, -9.20102],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -349,7 +349,7 @@ var config = {
             location: {
                 center: [ 126.3657600, -8.8672900],  
                 zoom: 15.00,
-                pitch: 9.00,
+                pitch: 0.00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
