@@ -49,7 +49,7 @@ var config = {
                     
             location: {
                 center: [ -8.425943, 40.207225],  
-                zoom: 15.00,
+                zoom: 16.00,
                 pitch: 0.00,
                 bearing: 0
             },
