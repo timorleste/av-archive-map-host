@@ -4,7 +4,7 @@
 Back Office Archive - General Workflow
 ![alt text](https://github.com/timorleste/wasa-diga-av-map/blob/main/images/the-av-workflow.jpg?raw=true)
 
-For a complete list of attributes, see the GeoReference Municipality Suco Boundaries:
+Geodatabase-Georeference Preservation:
 
 [Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
 
@@ -33,9 +33,6 @@ For a complete list of attributes, see the GeoReference Municipality Suco Bounda
 [Version_01 - OECUSSE Map Info](https://timorleste.github.io/oecusse "Suco Map")
 
 [Version_01 - VIQUEQUE Map Info](https://timorleste.github.io/viqueque "Suco Map")
-
-
-GeoReference GIS Development:
 
 [Version_01 - Elevation Map](https://timorleste.github.io/waterbodies "Waterbodies-Elevation Map")
 
