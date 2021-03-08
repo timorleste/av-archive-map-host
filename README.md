@@ -4,7 +4,7 @@
 Back Office Archive - General Workflow
 ![alt text](https://github.com/timorleste/wasa-diga-av-map/blob/main/images/the-av-workflow.jpg?raw=true)
 
-![alt text](https://github.com/timorleste/wasa-diga-av-map/blob/main/images/localhost-geodatabase.png?raw=true)
+![alt text](https://github.com/timorleste/av-archive-map-host/blob/main/images/localhost-geodatabase.png?raw=true)
 
 Geodatabase-Georeference Preservation:
 
